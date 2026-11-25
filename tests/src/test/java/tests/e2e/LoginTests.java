@@ -12,7 +12,7 @@ import org.junit.jupiter.api.Test;
 @Layer("e2e")
 @Epic("Authentication")
 @Feature("Login")
-@Issue("MUL-19")
+@Issue("MUL-83")
 @DisplayName("Login")
 class LoginTests extends TestBase {
 
